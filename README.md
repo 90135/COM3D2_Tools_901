@@ -10,6 +10,7 @@ Vibe Coding include :D
 
 请自行安装 [Python3](https://www.python.org/downloads/)
 
+请尝试 Python 3.12 及以上版本
 
 
 ### COM3D2文件关键词替换GUI工具.py
@@ -22,10 +23,34 @@ Vibe Coding include :D
 
 如果不行就 `python .\COM3D2文件关键词替换GUI工具.py`
 
+<br>
+
+替换 MOD 文件内的关键词时，会将 MOD 文件先转换成 JSON 再进行替换，需要注意 MeidoSerialization 转换的 JSON 文件是紧凑格式，建议先打开一个确认格式。
+
+假设我想要批量替换 mate 文件中的 `_MatcapValue` 的值，首先切换到格式转换功能，转换一个 `.mate` 为 `.mate.json` ，然后打开 `.mate.json` ，搜索 `_MatcapValue`
+
+它可能长这样
+```
+{"TypeName":"f","PropName":"_MatcapValue","Number":0.5}
+```
+于是我们在替换里面就要写，查找关键词：
+```
+{"TypeName":"f","PropName":"_MatcapValue","Number":0.5}
+```
+替换为：
+```
+{"TypeName":"f","PropName":"_MatcapValue","Number":0.7}
+```
+
+如果你只写一个 0.5，那么其他 0.5 也会被替换的，这样能保证精确替换。
+
 
 ![图片](https://github.com/user-attachments/assets/d49c5992-1c39-4603-8ea4-e6c9e0294fe5)
 
 ![图片](https://github.com/user-attachments/assets/b15ce3cd-060f-4950-93d0-19dea0008fff)
+
+
+
 
 
 
