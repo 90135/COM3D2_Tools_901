@@ -33,6 +33,9 @@ Vibe Coding include :D
 ```
 {"TypeName":"f","PropName":"_MatcapValue","Number":0.5}
 ```
+
+<br>
+
 于是我们在替换里面就要写，查找关键词：
 ```
 {"TypeName":"f","PropName":"_MatcapValue","Number":0.5}
@@ -44,14 +47,15 @@ Vibe Coding include :D
 
 如果你只写一个 0.5，那么其他 0.5 也会被替换的，这样能保证精确替换。
 
+<br>
 
-![图片](https://github.com/user-attachments/assets/d49c5992-1c39-4603-8ea4-e6c9e0294fe5)
+<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/e39a1aee-ccc0-4c6e-ac0a-efdd82290b9e" />
 
-![图片](https://github.com/user-attachments/assets/b15ce3cd-060f-4950-93d0-19dea0008fff)
+<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/f1a29729-4363-48f9-8c05-95c320b8e947" />
 
+<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/b13baa2e-fd18-4848-bb39-9efd834f5737" />
 
-
-
+<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/f2613251-d241-499f-a08d-e2d9a2f8fbb0" />
 
 
 ### dcm_songlist_xml_check.py
