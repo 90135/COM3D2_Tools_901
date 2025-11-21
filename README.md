@@ -49,13 +49,13 @@ Vibe Coding include :D
 
 <br>
 
-<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/e39a1aee-ccc0-4c6e-ac0a-efdd82290b9e" />
+<img width="600" height="600" alt="图片" src="https://github.com/user-attachments/assets/e39a1aee-ccc0-4c6e-ac0a-efdd82290b9e" />
 
-<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/f1a29729-4363-48f9-8c05-95c320b8e947" />
+<img width="600" height="600" alt="图片" src="https://github.com/user-attachments/assets/f1a29729-4363-48f9-8c05-95c320b8e947" />
 
-<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/b13baa2e-fd18-4848-bb39-9efd834f5737" />
+<img width="600" height="600" alt="图片" src="https://github.com/user-attachments/assets/b13baa2e-fd18-4848-bb39-9efd834f5737" />
 
-<img width="1404" height="1060" alt="图片" src="https://github.com/user-attachments/assets/f2613251-d241-499f-a08d-e2d9a2f8fbb0" />
+<img width="600" height="600" alt="图片" src="https://github.com/user-attachments/assets/f2613251-d241-499f-a08d-e2d9a2f8fbb0" />
 
 
 ### dcm_songlist_xml_check.py
