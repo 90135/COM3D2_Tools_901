@@ -1,6 +1,8 @@
 # COM3D2_Tools_901
 
-901 的 COM3D2 工具，这次没有国际化
+901 的 COM3D2 工具，这次没有国际化 :(
+
+非常随意的脚本，没有经过什么测试。
 
 Vibe Coding include :D
 
@@ -12,14 +14,21 @@ Vibe Coding include :D
 
 请尝试 Python 3.12 及以上版本
 
+## 下载
+
+点进 Github 上的 Script 文件夹，根据下面的说明找到想要的脚本。
+
+点进去对应脚本，然后点击此按钮下载。
+
+<img width="3834" height="912" alt="图片" src="https://github.com/user-attachments/assets/73f97f68-6df2-4091-be85-7b74ea752150" />
 
 ### COM3D2文件关键词替换GUI工具.py
 
-通常用于制作差分
+通常用于制作差分，或者批量将图片转换为 .tex 等，具体功能看图。
 
 本脚本依赖于 [https://github.com/MeidoPromotionAssociation/MeidoSerialization](https://github.com/MeidoPromotionAssociation/MeidoSerialization) 请先下载
 
-安装 [Python3](https://www.python.org/downloads/) 后，双击即可启动
+安装 Python3 后，双击即可启动。
 
 如果不行就 `python .\COM3D2文件关键词替换GUI工具.py`
 
@@ -47,6 +56,7 @@ Vibe Coding include :D
 
 如果你只写一个 0.5，那么其他 0.5 也会被替换的，这样能保证精确替换。
 
+<br>
 <br>
 
 <img width="600" height="600" alt="图片" src="https://github.com/user-attachments/assets/e39a1aee-ccc0-4c6e-ac0a-efdd82290b9e" />
